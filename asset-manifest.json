@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Os-Rotulos-Do-Ze/static/css/main.d1d1cfa5.css",
-    "main.js": "/Os-Rotulos-Do-Ze/static/js/main.2c7636e5.js",
+    "main.css": "/Os-Rotulos-Do-Ze/static/css/main.aef11e2a.css",
+    "main.js": "/Os-Rotulos-Do-Ze/static/js/main.fa185c13.js",
     "index.html": "/Os-Rotulos-Do-Ze/index.html",
-    "main.d1d1cfa5.css.map": "/Os-Rotulos-Do-Ze/static/css/main.d1d1cfa5.css.map",
-    "main.2c7636e5.js.map": "/Os-Rotulos-Do-Ze/static/js/main.2c7636e5.js.map"
+    "main.aef11e2a.css.map": "/Os-Rotulos-Do-Ze/static/css/main.aef11e2a.css.map",
+    "main.fa185c13.js.map": "/Os-Rotulos-Do-Ze/static/js/main.fa185c13.js.map"
   },
   "entrypoints": [
-    "static/css/main.d1d1cfa5.css",
-    "static/js/main.2c7636e5.js"
+    "static/css/main.aef11e2a.css",
+    "static/js/main.fa185c13.js"
   ]
 }
