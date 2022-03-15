@@ -2,8 +2,10 @@
   "homepage": "https://joseramalho.github.io/Os-Rotulos-Do-Ze",
   "dependencies": {
     "@babel/core": "^7.17.5",
+    "bootstrap": "^5.1.3",
     "gh-pages": "^3.2.3",
     "react": "^17.0.2",
+    "react-bootstrap": "^2.2.1",
     "react-dom": "^17.0.2",
     "react-scripts": "^5.0.0",
     "reactdom": "^2.0.0",

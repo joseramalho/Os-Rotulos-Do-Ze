@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "name": "Bracara - Cream Ale",
+        "breweryId": 1
+    },
+    {
+        "id": 2,
+        "name": "Imperator - Quadrupel",
+        "breweryId": 1
+    }
+]
