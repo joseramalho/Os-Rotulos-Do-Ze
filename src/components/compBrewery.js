@@ -1,7 +1,7 @@
 import { ListGroupItem } from "react-bootstrap";
-import Labels from "./Labels";
+import Labels from "./compLabels";
 
-function Brewery({id, name, country}) {
+function CompBrewery({id, name, country}) {
     return (
       <ListGroupItem>
           <div className="ms-2 me-auto">
@@ -15,5 +15,5 @@ function Brewery({id, name, country}) {
     );
   }
   
-  export default Brewery;
+  export default CompBrewery;
   

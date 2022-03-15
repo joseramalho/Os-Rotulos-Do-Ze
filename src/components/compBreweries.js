@@ -2,7 +2,7 @@ import { ListGroup } from 'react-bootstrap';
 import breweries from '../data/breweries.json'
 import countries from '../data/countries.json'
 
-import Brewery from './Brewery';
+import Brewery from './compBrewery';
 
 function Breweries() {
     return (
