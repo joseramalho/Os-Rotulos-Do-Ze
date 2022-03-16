@@ -1,6 +1,1 @@
-[
-    {
-        "id": 1,
-        "name": "Portugal"
-    }
-]
+[{"id":8,"name":"Africa do Sul"},{"id":2,"name":"Alemanha"},{"id":17,"name":"Australia"},{"id":21,"name":"Austria"},{"id":4,"name":"Belgica"},{"id":15,"name":"Brazil"},{"id":31,"name":"Cambodja"},{"id":10,"name":"China"},{"id":22,"name":"Esc�cia"},{"id":14,"name":"Espanha"},{"id":18,"name":"Fran�a"},{"id":6,"name":"Grecia"},{"id":3,"name":"Holanda"},{"id":20,"name":"Irlanda"},{"id":16,"name":"Italia"},{"id":7,"name":"Jap�o"},{"id":19,"name":"Mexico"},{"id":12,"name":"Mo�ambique"},{"id":9,"name":"Namibia"},{"id":28,"name":"Noruega"},{"id":30,"name":"Nova Zelandia"},{"id":23,"name":"Pol�nia"},{"id":1,"name":"Portugal"},{"id":27,"name":"Republica Checa"},{"id":25,"name":"Romenia"},{"id":29,"name":"Russia"},{"id":24,"name":"Su�cia"},{"id":11,"name":"UK"},{"id":5,"name":"USA"}]

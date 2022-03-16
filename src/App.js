@@ -1,4 +1,5 @@
-import { Container, Nav, Navbar } from 'react-bootstrap';
+import { Col, Container, Nav, Navbar, Row } from 'react-bootstrap';
+import { LinkContainer } from 'react-router-bootstrap';
 import {  Outlet, Route, Routes } from 'react-router-dom';
 import './App.css';
 import Breweries  from './pages/Breweries';
@@ -35,14 +36,18 @@ function Layout() {
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="me-auto">
-              <Nav.Link href={process.env.PUBLIC_URL + "/breweries"}>Cervejeiras</Nav.Link>
-              <Nav.Link href={process.env.PUBLIC_URL + "/countries"}>Países</Nav.Link>
+              <LinkContainer to={process.env.PUBLIC_URL + "/breweries"}><Nav.Link>Cervejeiras</Nav.Link></LinkContainer>
+              <LinkContainer to={process.env.PUBLIC_URL + "/countries"}><Nav.Link>Países</Nav.Link></LinkContainer>
             </Nav>
           </Navbar.Collapse>
         </Container>
       </Navbar>
       <Container>
-        <Outlet />
+        <Row>
+          <Col as="main" className="pt-5" >
+            <Outlet />
+          </Col>
+        </Row>
       </Container>
   </>
   );
