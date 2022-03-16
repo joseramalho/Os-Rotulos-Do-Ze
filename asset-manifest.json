@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Os-Rotulos-Do-Ze/static/css/main.aef11e2a.css",
-    "main.js": "/Os-Rotulos-Do-Ze/static/js/main.0532d8ed.js",
+    "main.js": "/Os-Rotulos-Do-Ze/static/js/main.644d5a52.js",
     "index.html": "/Os-Rotulos-Do-Ze/index.html",
     "main.aef11e2a.css.map": "/Os-Rotulos-Do-Ze/static/css/main.aef11e2a.css.map",
-    "main.0532d8ed.js.map": "/Os-Rotulos-Do-Ze/static/js/main.0532d8ed.js.map"
+    "main.644d5a52.js.map": "/Os-Rotulos-Do-Ze/static/js/main.644d5a52.js.map"
   },
   "entrypoints": [
     "static/css/main.aef11e2a.css",
-    "static/js/main.0532d8ed.js"
+    "static/js/main.644d5a52.js"
   ]
 }
